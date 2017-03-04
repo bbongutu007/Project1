@@ -1,0 +1,21 @@
+body {
+  background-image: url(http://i.imgur.com/pjnUE.jpg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 2px rgba(96, 96, 96, 1);
+}
+ul {
+  list-style: none;
+}
+nav {
+  display: block;
+  text-align: center;
+}
+img {
+  display: block;
+  margin:auto;
+  
+}

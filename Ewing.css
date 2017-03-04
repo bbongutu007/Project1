@@ -1,0 +1,12 @@
+body {
+  background-image: url(http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/patrick-ewing-cliff-spohn.jpg);
+  background-repeat: repeat-x;
+  background-size: cover;
+  color:white;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 2px rgba(96, 96, 96, 1);
+}
+ul{
+  list-style: none;
+}
